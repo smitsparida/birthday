@@ -22,7 +22,7 @@ var config = {
      * Add your girlfriend’s photo if you want
      */
     imgs: {
-        "My Love, My Happiness": "./imgs/girlfriend.png",
+        "My Love, My Happiness": "https://github.com/smitsparida/birthday/blob/43ad7f7fbbc9883416f9879c3b6edfbe8613897c/imgs/smp.jpeg",
         // You can add more images like:
         // "Today is a very special day": "./imgs/birthday.jpg",
     },
